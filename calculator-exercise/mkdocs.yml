@@ -1,0 +1,10 @@
+site_name: Laskin dokumentaatio
+
+plugins:
+  - mkdocstrings
+
+nav:
+    - Home: index.md
+    - Käyttöohjeet: Käyttö.md
+    - FAQ: faq.md
+    - docstring: doc.md
